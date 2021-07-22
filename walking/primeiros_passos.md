@@ -27,6 +27,6 @@
   * para colocar o email do autor no commit
 * git add "nome do arquivo" "nome da pasta/" (esses dois são sem as aspas "")
   * para adicionar o arquivo ao "Staged" e ele poder ser commitado
-
-
+* git commit -m "mensagem"
+  * pegamos todos os arquivos que estão ali no "Staged", envelopamos eles na mesgaem e criamos um Commit
 
