@@ -3,4 +3,4 @@
 Olá! Sejam todos bem vindos ao nível mais básico de ensinamentos e códigos do Git
 
 * Primeiros passos
-
+* Re-empurrando o arquivo para o GithHub
